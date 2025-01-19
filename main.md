@@ -56,16 +56,17 @@ Waffe als:
             - Oder Ladeanimation manuell gedreht?
     - Desktop sieht wie alte Windows-Oberfläche aus
         - Icons weichen aus?
-            - Müssen "angefüttert" werden
+            - Müssen abgeschossen werden
         - Icons keine gute Ikonographie
-        - Sprache ist anders
         - Was passiert beim Drücken auf den Start-Button?
             - Nur Symbol, das Konfetti verteilt
         - Was passiert mit der Uhr?
             - Uhr zählt langsam einen Countdown herunter
         - Gibt es Tray-Programme?
+    - Wird die Maus zu lange nicht bewegt, ändert sich die Sprache
     - Sprache ändern?
-    - Tastaturlayout ändern?
+        - "Lass uns erst einmal die Sprache ändern, damit Du zurecht kommst"
+        - "Du musst nur das 'Sprache'-Programm auswählen"
     - Mailprogramm öffnen
         - Mails abrufen
         - Mail schreiben
