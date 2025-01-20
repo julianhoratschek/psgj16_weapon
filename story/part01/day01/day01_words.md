@@ -9,9 +9,13 @@ tags: []
 - arbeite weniger
 - weniger Arbeit
 - Fauhlheit
+- Faulenzer
+- Schlummer
+- Hänge
 - Burnout
 - Arbeitsbelastung
 - herumgelegen
+- zurücklehnen
 
 
 prod++ if opt

@@ -20,10 +20,8 @@ Progress:
         - Aufruf zur Faulheit
     - Schutz vor Verleumdung
         - Schutz des Regimes
-        - Schutz des Diktators
     - Angleichung Sprachgebrauch
         - Verbot bestimmter Worte
-        - Umbenennung von Orten/Worten
 - Aufruhr reduzieren
     - Skandale vermindern
         - Namen von Politikern entfernen
@@ -33,6 +31,8 @@ Progress:
         - Schließung von Konzernen
         - Arbeitsmarktprobleme
         - Entlassungen verheimlichen
+    - Erweiterung der verbotenen Begriffe
+    - Umbenennung von Plätzen/Namen
 - Bevölkerung schützen
     - Lügen über das Regime von anderen Nationen reduzieren
     - Lügen über Infektionskrankheit reduzieren
