@@ -4,6 +4,49 @@ aliases: []
 tags: []
 ---
 
+Meter:
+
+- Produktivität
+- Möglichkeiten
+- Angst -> Coup
+- Wut -> Coup
+
+
+Progress:
+
+- Schutz der Bevölkerung
+    - Schutz vor "verderblichen Themen"
+        - Theater
+        - Aufruf zur Faulheit
+    - Schutz vor Verleumdung
+        - Schutz des Regimes
+        - Schutz des Diktators
+    - Angleichung Sprachgebrauch
+        - Verbot bestimmter Worte
+        - Umbenennung von Orten/Worten
+- Aufruhr reduzieren
+    - Skandale vermindern
+        - Namen von Politikern entfernen
+        - verfängliche Posten in Veröffentlichen entfernen
+    - Panik vermeiden
+        - Nachrichten bzgl. Reduktion von Kaufkraft
+        - Schließung von Konzernen
+        - Arbeitsmarktprobleme
+        - Entlassungen verheimlichen
+- Bevölkerung schützen
+    - Lügen über das Regime von anderen Nationen reduzieren
+    - Lügen über Infektionskrankheit reduzieren
+
+
+Storylines:
+- Dolly P. Buster
+    - Ein aufsteigendes Sternchen im Theater-Firmament.
+    - Wirkt initial als etwas, das klein gehalten werden foll (frivol)
+    - Kann im Verlauf die Bevölkerung beschwichtigen
+- Marshall Walkman
+    - Korrupter Politiker, der sich immer tiefer in Probleme begibt
+    - Je mehr er zensiert wird, desto mehr wird er Probleme machen
+
 
 Zensur-Aufträge:
     - "Erwachsenen-Themen"
@@ -33,4 +76,5 @@ Artikel:
     - Poster
 
 
-
+Problematic words:
+- dictator
