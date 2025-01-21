@@ -4,12 +4,19 @@ aliases: []
 tags: []
 ---
 
+
+Jahr: 1943
+Tage: Tag der Sonne, Tag des Mondes, Tag des Windes, Tag der Erde, Tag des Wassers, Tag des Feuers, Tag der Ruhe
+
 Meter:
 
 - Produktivität
 - Möglichkeiten
 - Angst -> Coup
 - Wut -> Coup
+
+
+Enden:
 
 
 Progress:
