@@ -50,16 +50,16 @@ Produktion:
 
 # Werte
 
-Arbeitsam: Freizeit, Urlaub, zurücklehnen, Entspann, faul, ausspannen, Überarbeitung, Müde, Tanz, Spaß, Selbstfürsorge,
+Arbeitsam: Freizeit, Urlaub, zurücklehnen, Entspann, faul, ausspannen, Überarbeitung, Müde, Tanz, Spaß, Selbstfürsorge, singen, Genießer
 Mittagsschlag, Pause, Andacht, Beten
     -> prod++, angst++
     |-> prod--, angst--
 
-Gesundheit: Krankheit, ansteckend, Alkohol, Kuchen, Armut
+Gesundheit: Krankheit, ansteckend, Alkohol, Kuchen, Armut, Kaffee, Gift, Chemie, Verschmutzung, Kontaminier
     -> angst--, wut++
     |-> angst++
 
-Keine politischen Systeme: König, Prinzessin, demokrat, Wahl, Diktatur, Wahlbetrug, Demokrat, Machtergreifung,
+Keine politischen Systeme: König, Prinzessin, demokrat, Wahl, Diktatur, Wahlbetrug, Demokrat, Machtergreifung, Revolution
 Neuwahlen, demonstr, Zensur, politisch motiviert, politische System
     -> wut++, angst--
     |-> wut--, angst++
@@ -377,40 +377,123 @@ Gewalt gegen andere Nationen ???
 ROBOTER
 
 
-Kevins Geschichte
-Theaterprogramm
+Aus unserer Reihe "junge Autoren" (Kevin, 6 Jahre)
+Der böse Drache hatte ausgeschlafen. Als er aufwachte, sah er den blauen Ritter. Der Ritter
+hatte ein großes Schwert, weil er ein Held ist. Aber der Drache konnte Feuer spucken, das sogar
+die Rüstung vom Ritter verbrannte. Aber der Ritter sagte: "Das macht mir nichts." Der Ritter
+ist nämlich eigentlich ein Roboter.
+
+
 Renates Reiseblog
+Der Ruf der Ferne
+Ich bin auf dem Weg zu einer unserer Nachbarnationen: Klumplum ist nämlich berühmt für ihre
+Kuchen und Kaffees. Leider sind die bei uns nicht einmal mehr als Import zu bekommen.
+Ich hoffe sehr, dass sich die Situation für uns Genießer bald ändert.
 
 
 :::angst < n
 
 
 Sportfest
-Wir trotzen den Robotern!
-Wir organisieren ein Sportfest: Morgen am Fluss der Veränderung
-Kommt alle, kommt zahlreich!
+Heute Abend
+Beim Fluss der Veränderung
+Musik und alkoholische Getränke
 
-Warum Roboter etwas gutes sind
 
-angst > n
-Religion fasst Fuß
-Menschen wollen keinen Fuß vor die Tür setzen
-Private Bodyguards nehmen zu
+Feste halten An
+Trotz der immer noch angespannten Situation mit den Nachbarnationen halten die Feierlichkeiten
+der Bevölkerung an. Mehrere kleinere Gruppen haben sich organisiert, Zusammenhalt, Tanz
+und Musik unter dem Volk aufrecht zu erhalten. Prozessionen ziehen regelmäßig
+in Richtung des Kanals, um dort mit Feuerwerken den Arbeitstag zu beenden.
+
+
+Theaterprogramm
+10:00 - Lesung: Heldengeschichten des Mutterlandes
+12:30 - Dolly P. Buster: Ein anregendes Gespräch
+13:00 - Der herzlose Roboter
+15:00 - Lesung: Arbeit und Möglichkeit
+17:00 - Eine Maschine mit Liebe
+18:45 - Eine romantische Geschichte
+20:00 - Lesung: Tanz und Lachen
+21:00 - Geschichte der Partei der Hoffnung
+00:00 - Nachtgruß der Partei
+
+
+:::angst > n
+
+
 Theater in der Hand von CPC
 
-wut < n
+Weiterhin Schwund der Arbeitsmöglichkeiten
+Paralysen machen sich breit unter der Bevölkerung: viele arbeitswillige Menschen können
+keiner Beschäftigung nachgehen, da aktuell keine Angebote herrschen. Alkoholismus und
+Verzweiflung machen sich in den Straßen breit.
+
+
+Die Sorge auf Gott werfen
+Nachdem eine Vielzahl an Freizeitaktivitäten verboten wurde, finden sich immer mehr Menschen
+der Religion zugewandt: Hier tanzen und singen sie, verbringen Zeit miteinander und können
+ihre Ängste und Sorgen kurzzeitig vergessen. Jahnus Poroglossus, Vorstehender der lokalen
+Kirchen-Community, unterstreicht in diesem Zusammenhang, nur das Beste für Bevölkerung und
+Partei im Sinn zu haben. "Wir unterstützen unser Politik da, wo sie aktuell keine Augen haben kann."
+
+
+Theaterprogramm
+17:00 - Ritter und Raufbuben
+18:00 - Lesung: Arbeit und Möglichkeit
+20:00 - Dolly P. Buster: Arbeiter, Dich liebe ich
+21:00 - Geschichte der Partei der Hoffnung
+00:00 - Nachtgruß der Partei
+
+
+:::wut < n
 Neue Theaterstücke
 
-wut > n
-Wir sind alle ersetzbar
+
+:::wut > n
+
+
+Arbeiter! Bürger!
+Merkt Euch: Wir alle sind ersetzbar!
+Das politische System schert sich nicht um Euch!
+Revolution JETZT
+
+
+Interview mit Gimp Kalwent:
+Herr Kalwent, Sie sind auf der steilen Karriereleiter der Partei der Hoffnung. Wohin geht
+die Reise?
+K.: Zunächst erst einmal ins Ministerium für Tugend und Arbeit, eine unserer Kernstellen.
+Von da aus sehe ich, was ich für Mutterland und Bevölkerung Gutes tun kann
+I.: Was sagen Sie zu den neuen Entwicklungen in Batterie Inc.?
+K.: Ich bin hochzufrieden: Immerhin ist das der Vorzeigekonzern dessen, was unsere Partei
+schaffen kann. Und die wiederholten Erfolge und Expansionen sprechen für sich.
+I.: Ich dachte eher an die Ersetzung aller Arbeiter durch Roboter?
+K.: Vielen Dank für die interessanten Fragen, aber die Pflicht ruft.
+
+
 Opposition: Menschenverachtend
 
-prod < n
-Großer Erfolg: Ersetzen von Fremden durch lokale Roboter
 
-prod > n
-Kritik: Arbeitslos durch Roboter
-Weitere Expansion der Fabrik
+:::prod < n
+
+
+Erfolg für Technologie und Mutterland
+Die Innovation des Mutterlandes hat es geschafft, Batterie Inc. zu einem weiteren Durchbruch
+zu verhelfen: Die bisherige Dependenz von den Arbeitern anderer Nationen gehören nun der
+Vergangenheit an. Tausende von Einwanderern wurden durch zuverlässige, leistungsfähige
+und arbeitssame Roboter ersetzt, die ihre Aufgaben nun übernehmen können, und unserer
+Bevölkerung zu neuem Profit verhelfen werden.
+
+
+:::prod > n
+
+
+Unter der Oberfläche
+Einige machen sich Sorgen über die kürzliche Einführung von Robotern in Batterie Inc.. Und
+es ist verständlich, mussten doch viele fleißige Arbeiter deswegen kurzzeitig ihre Arbeitsplätze
+verlassen. Aber das ist kurzfristig gedacht: Die Partei der Hoffnung sorgt für die gesamte
+Bevölkerung: Die neue Technologie wird zu mehr Expansion führen, wodurch noch mehr Arbeitsplätze
+erschlossen werden. Alle gewinnen am Ende.
 
 
 ## Jahr 1943, Monat 5, Tag der Ruhe
@@ -419,6 +502,16 @@ Weitere Expansion der Fabrik
     - Tag des Windes in Tag der Partei
 
 CRASH
+
+
+Vergiftete Flüsse
+Aus sicherer Quelle wurde uns mitgeteilt, dass Batterie Inc. nicht mit sauberen Mitteln arbeitet.
+Im wahrsten Sinne des Wortes: Der Konzern habe bereits seit Jahren Chemikalien in die
+Flüsse unserer Städte geleitet und sie damit kontaminiert. Die Folgen sind nicht absehbar:
+Bisher lassen sich nur einige wenige Krankheitsfälle mit den Chemikalien in Verbindung bringen,
+allerdings haben sich die Mengen der Schadstoffe vervielfältigt, seit der Konzern in letzter
+Zeit mehrfach expandierte.
+
 
 angst < n
 Vertrauen in die Partai
