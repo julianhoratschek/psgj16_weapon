@@ -594,11 +594,15 @@ prod > n
 Deutliche Zunahme von Krankheiten
 Übermüdung der Bevölkerung
 
-wut & angst
+:::wut & angst
+
+ENDE:
 Aufrufe zur Revolution
 Berichte Untergrundorganisationen
 
-prod > n & angst < n
+:::prod > n & angst < n
+
+ENDE:
 Riesige Katastrophe
 
 ## Jahr 1943, Monat 5, Tag des Mondes
