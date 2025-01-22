@@ -55,16 +55,16 @@ Mittagsschlag, Pause, Andacht, Beten
     -> prod++, angst++
     |-> prod--, angst--
 
-Gesundheit: Krankheit, ansteckend, Alkohol, Kuchen, Armut, Kaffee, Gift, Chemie, Verschmutzung, Kontaminier
+Gesundheit: Krankheit, ansteckend, Alkohol, Kuchen, Armut, Kaffee, Gift, Chemie, Verschmutzung, Kontaminier, Schwermetall, Chemikalie, gesundheitsschädigend, Verunreinigung
     -> angst--, wut++
     |-> angst++
 
-Keine politischen Systeme: König, Prinzessin, demokrat, Wahl, Diktatur, Wahlbetrug, Demokrat, Machtergreifung, Revolution
+Keine politischen Systeme: König, Prinzessin, demokrat, Wahl, Diktatur, Wahlbetrug, Demokrat, Machtergreifung, Revolution, Sabotage
 Neuwahlen, demonstr, Zensur, politisch motiviert, politische System
     -> wut++, angst--
     |-> wut--, angst++
 
-Keine Negativität: böse, Angst, genervt, Tod, Anschuldigung, Traurigkeit, Ängste, Teufelskreis, Hoffnungslosigkeit,
+Keine Negativität: böse, Angst, genervt, Tod, Anschuldigung, Traurigkeit, Ängste, Teufelskreis, Hoffnungslosigkeit, Katastrophe, besorgniserregend
 Ratlosigkeit, Gewalt, kriminell
     -> angst--, wut++
     |-> angst++, wut--
@@ -74,7 +74,7 @@ Ansichten, Wünsche, Glaube
     -> prod++, angst++
     |-> prod--, angst--
 
-Patriotismus: Reise, Fernweh, Ausland, Spaghetti, fernen Land, Rundlichen, anderer nation
+Patriotismus: Reise, Fernweh, Ausland, Spaghetti, fernen Land, Rundlichen, anderer nation, isoliert
     -> wut++
     |-> wut--
 
@@ -497,10 +497,6 @@ erschlossen werden. Alle gewinnen am Ende.
 
 
 ## Jahr 1943, Monat 5, Tag der Ruhe
-        - Gift und Chemie -> ill++ | ill--
-    - Tag der Ruhe wird in Tag der Arbeit umbenannt
-    - Tag des Windes in Tag der Partei
-
 CRASH
 
 
@@ -513,45 +509,78 @@ allerdings haben sich die Mengen der Schadstoffe vervielfältigt, seit der Konze
 Zeit mehrfach expandierte.
 
 
-angst < n
-Vertrauen in die Partai
+:::angst < n
 
-angst > n
-Kirche bietet Rationen an
 
-wut < n
-Materialschäden
+Feierlichkeiten halten an
+Tausende Menschen strömen in die Hauptstadt, um am "Fest der Hoffnung" teilzunehmen. Das Fest findet jährlich rund um den Fluss der Veränderung statt und wird von vielerlei sportlichen Aktivitäten begleitet, insbesondere Schwimmen, Rudern und traditioneller Faustkampf.
 
-wut > n
-Schuld bei der Partei
-Berichte über Sabotage der Roboter
 
-prod < n
-Lokale Wasserverunreinigung
+:::angst > n
 
-prod > n
-Großflächige Wasserverunreinigung
 
-prod > n & angst < n
-Riesige Katastrophe
+Alle gleich vor Gott
+Wir bieten für alle Bürgerinnen und Bürger
+- Wasserrationen
+- Unterkunft
+- Nahrungsmittel
+In unserem Haus. Fragt, und es wird gegeben
 
-wut & angst
-Aufrufe zur Revolution
-Berichte Untergrundorganisationen
+
+:::wut < n
+
+
+
+
+
+:::wut > n
+
+
+Kampf den Robotern
+Wir werden nicht tatenlos dabei zusehen, wie unsere Bürger vergiftet werden!
+Wir rufen auf zum Krieg!
+
+
+Sabotage als Ursache der Lecks?
+Mehrere Berichte über eventuelle Sabotageakte bei Batterie-Inc. liegen vor. Die Firma beteuert, stets nach bestem Wissen und Gewissen gehandelt zu haben. Eine Verunreinigung der Gewässer sei nur denkbar, wenn Dritte Einwirkung auf den Arbeitsablauf der Fabrik genommen hätten.
+
+
+:::prod < n
+
+
+Abstract
+Untersuchungen örtlicher Wasserquellen zeigten eine leichte Verunreinigung durch saure Chemikalien sowie Schwermetalle auf. Die Verunreinigungen scheinen lokal auf wenige Quellen in der Nähe größerer Fabriken beschränkt zu sein.
+
+
+:::prod > n
+
+
+Abstract
+Eine groß angelegte Untersuchung fand sowohl Fluss- als auch Grundwasserquellen des Mutterlandes mittel- bis stark mit sauren Chemikalien sowie Schwermetallen verunreinigt. Der Grad der Verunreinigung wird als besorgniserregend und gesundheitsschädlich eingestuft. Wenn möglich wird der Konsum von abgepackten Wasserquellen epfohlen.
+
 
 ## Jahr 1943, Monat 5, Tag der Sonne
-    - Andere Kulturen
-
 KRANKHEIT
 
-angst < n
-Katasrophe bei Straßenfest
+:::angst < n
 
-angst > n
-Kirche als Anlaufpunkt für Kranke
-Flucht aus dem land
 
-wut < n
+Unzählige erkrankt
+Nach einem Volksfest im Fluss der Veränderung sind tausende von Bürgern erkrankt. Von offizieller Stelle erfolgte bisher keine Stellungnahme, Betroffene wurden isoliert. Einzelne Todesfälle wurden bereits berichtet, das genaue Ausmaß der Katastrophe ist noch nicht abzuschätzen.
+
+
+:::angst > n
+
+
+Bedroht durch Abwanderung
+Eine Umfrage in der Bevölkerung ergab zunehmende Tendenzen, in die Nachbarnationen abzuwandern. Insbesondere scheinen hier Befürchtungen bezüglich der verunreinigten Wasserquellen sowie der politischen Entwicklung eine Rolle zu spielen.
+
+
+Am Krankenbett
+Nachdem Kliniken vor Ort nicht mehr in der Lage sind, die zunehmenden Krankheitsfälle aufzufangen, zeigt sich die Kirche bereit, ihre Türen zu öffnen und die Bürger zu versorgen. In der Bevölkerung ist eine rapide zunehmende Akzeptanz religiöser Inhalte und Institutionen zu verzeichnen.
+
+
+:::wut < n
 Partei wird es lösen
 
 wut > n
@@ -565,6 +594,12 @@ prod > n
 Deutliche Zunahme von Krankheiten
 Übermüdung der Bevölkerung
 
+wut & angst
+Aufrufe zur Revolution
+Berichte Untergrundorganisationen
+
+prod > n & angst < n
+Riesige Katastrophe
 
 ## Jahr 1943, Monat 5, Tag des Mondes
     - Schließung der Grenzen
