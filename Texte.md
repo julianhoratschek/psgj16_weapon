@@ -38,7 +38,7 @@ tags: []
     - gesunde Menschen sind widerstandsfähiger
         - sind kräftiger, arbeiten aber kämpfen auch gut
 
-Kreativität
+- Kreativität
     - kreative Menschen sind innovativ
         - Erfinden neue Technologien
         - können mit Widrigkeit umgehen
@@ -46,13 +46,36 @@ Kreativität
         - sind leichter zu leiten
         - schürt wut
 
+
+# Schlagworte
+
+Angst
+    +
+    -
+Wut
+    +
+    -
+Gesundheit
+    +
+    -
+Kreativität
+    +
+    -
+
 # Storylines
 
 Batterienfabrik
-  - erhält lokal Arbeiter
-    - Produktivität nimmt zu
-    - Zufriedenheit nimmt zu
-    - Übermüdung nimmt zu
-  - holt sich welche von außen
-    - Fremdenfeindlichkeit nimmt zu
-    - Zufriedenheit nimmt ab
+    - Sammelt Arbeiter
+    - Expandiert
+    - Ersetzt durch Roboter
+    - Explosion/Unglück
+    - Verseucht Trinkwasser
+    - Krankheiten
+
+Damm über Dorf
+    - bricht
+
+
+
+
+
